@@ -1,13 +1,3 @@
-<h1 align="centre">LoungeMUSIC V1.0 🎵</h1>
-
-### Telegram gruplarınızda müzik dinlemenize yarar 
-#### POWERED BY [Bodrumlu](https://t.me/bodrumlubebekk)
-### Destek kanalı [@Loungemusicsupport](https://t.me/loungemusicsupport)
-
-<p align="center">
-  <img src="https://telegra.ph/file/03f1c9ec4513c3a52bc22.jpg">
-</p>
-
 <h2> Özellikler 🔥 </h2>
 
 - Küçük Resim Desteği
@@ -61,8 +51,4 @@ Get pyrogram (p)  `SESSION` from here:
 
 
 #### Özel Krediler
-- [BODRUMLU OWNER](http://github.com/bodrumlu48): LoungeMusic Geliştirici
-
-
-#### DESTEK VERENLER
-- [SİRİDEV](https://t.me/sirisupport)
+- [Mehmet](http://github.com/wiperowner):
