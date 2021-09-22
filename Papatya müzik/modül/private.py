@@ -41,12 +41,10 @@ def _start(client, message):
                         "➕ Beni Grubuna ekle ➕", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")],
                 [
                     InlineKeyboardButton(
-                        "📲 Güncelleme duyuru", url=f"https://t.me/Miarobotlog"), 
-                    InlineKeyboardButton(
-                        "💬 Support", url=f"https://t.me/AthenaSupport")
+                        "📲 Güncelleme Kanalı", url=f"https://t.me/SonyMusicSupport"), 
                 ],[
                     InlineKeyboardButton(
-                        "👨‍💻 Geliştiricim 👨‍💻", url=f"https://t.me/wiperowner")
+                        "👨‍💻 Developer 👨‍💻", url=f"https://t.me/SonyMusicDeveloper")
                 ]
             ]
         ),
@@ -102,9 +100,8 @@ def map(pos):
         url = f"https://t.me/{SUPPORT_GROUP}"
         button = [
             [InlineKeyboardButton("➕ Beni Grubuna ekle ➕", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")],
-            [InlineKeyboardButton(text = '📲 Güncelleme kanalı', url=f"https://t.me/Miarobotlog"),
-             InlineKeyboardButton(text = '💬 Support', url=f"https://t.me/athenasupport")],
-            [InlineKeyboardButton(text = '👨‍💻 Geliştiricim 👨‍💻', url=f"https://{SOURCE_CODE}")],
+            [InlineKeyboardButton(text = '📲 Güncelleme kanalı', url=f"https://t.me/SonyMusicSupport")],
+            [InlineKeyboardButton(text = '👨‍💻 Developer 👨‍💻', url=f"https://{SOURCE_CODE}")],
             [InlineKeyboardButton(text = '◀️', callback_data = f"help+{pos-1}")]
         ]
     else:
